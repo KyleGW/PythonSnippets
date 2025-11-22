@@ -1,0 +1,378 @@
+Table Code,Control ID,Control Label,Title
+SC-1,ac-1,AC-1,Access Control Policy and Procedures
+SC-2,ac-2,AC-2,Account Management
+SC-3,ac-2.1,AC-2 (1),Automated Information System Account Management
+SC-4,ac-2.2,AC-2 (2),Removal of Temporary/Emergency Accounts
+SC-5,ac-2.3,AC-2 (3),Disable Inactive Accounts
+SC-6,ac-2.4,AC-2 (4),Automated Audit Actions
+SC-7,ac-2.5,AC-2 (5),Inactivity Logout
+SC-8,ac-2.7,AC-2 (7),Role-Based Schemes
+SC-9,ac-2.9,AC-2 (9),Restrictions on Use of Shared Groups/Accounts
+SC-10,ac-2.10,AC-2 (10),Shared/Group Account Credential Termination
+SC-11,ac-2.12,AC-2 (12),Account Monitoring/Atypical Usage
+SC-12,ac-3,AC-3,Access Enforcement
+SC-13,ac-3.9,AC-3 (9),Access Enforcement – Controlled Release
+SC-14,ac-4,AC-4,Information Flow Enforcement
+SC-15,ac-4.21,AC-4 (21),Information Flow Enforcement – Physical/Logical
+SC-16,ac-5,AC-5,Separation of Duties
+SC-17,ac-6,AC-6,Least Privilege
+SC-18,ac-6.1,AC-6 (1),Authorize Access to Security Functions
+SC-19,ac-6.2,AC-6 (2),Non-Privileged Access for Non-Security Functions
+SC-20,ac-6.5,AC-6 (5),Privileged Accounts
+SC-21,ac-6.9,AC-6 (9),Auditing Use of Privileged Functions
+SC-22,ac-6.10,AC-6 (10),Prohibit Non-Privileged Users from Executing Privileged Functions
+SC-23,ac-7,AC-7,Unsuccessful Logon Attempts
+SC-24,ac-8,AC-8,System Use Notification
+SC-25,ac-10,AC-10,Concurrent Session Control
+SC-26,ac-11,AC-11,Session Lock
+SC-27,ac-11.1,AC-11 (1),Pattern-Hiding Displays
+SC-28,ac-12,AC-12,Session Termination
+SC-29,ac-14,AC-14,Permitted Actions without Identification or Authentication
+SC-30,ac-17,AC-17,Remote Access
+SC-31,ac-17.1,AC-17 (1),Automated Monitoring/Control
+SC-32,ac-17.2,AC-17 (2),Protection of Confidentiality/Integrity Using Encryption
+SC-33,ac-17.3,AC-17 (3),Managed Access Control Points
+SC-34,ac-17.4,AC-17 (4),Privileged Commands/Access
+SC-35,ac-17.9,AC-17 (9),Disconnect/Disable Access
+SC-36,ac-18,AC-18,Wireless Access
+SC-37,ac-18.1,AC-18 (1),Authentication and Encryption
+SC-38,ac-19,AC-19,Access Control for Mobile Device
+SC-39,ac-19.5,AC-19 (5),Full-Device / Container-Based Encryption
+SC-40,ac-20,AC-20,Use of External Information Systems
+SC-41,ac-20.1,AC-20 (1),Limits on Authorized Use
+SC-42,ac-20.2,AC-20 (2),Portable Storage Devices
+SC-43,ac-20.3,AC-20 (3),Non-Organizationally Owned Systems / Components / Devices
+SC-44,ac-21,AC-21,Information Sharing
+SC-45,ac-22,AC-22,Publicly Accessible Content
+SC-46,at-1,AT-1,Security Awareness and Training Policy and Procedures
+SC-47,at-2,AT-2,Security Awareness Training
+SC-48,at-2.2,AT-2 (2),Insider Threat
+SC-49,at-3,AT-3,Role-Based Security Training
+SC-50,at-4,AT-4,Security Training Records
+SC-51,au-1,AU-1,Audit and Accountability Policy and Procedures
+SC-52,au-2,AU-2,Audit Events
+SC-53,au-2.3,AU-2 (3),Reviews and Updates
+SC-54,au-3,AU-3,Content of Audit Records
+SC-55,au-3.1,AU-3 (1),Additional Audit Information
+SC-56,au-4,AU-4,Audit Storage Capacity
+SC-57,au-5,AU-5,Response to Audit Processing Failures
+SC-58,au-6,AU-6,"Audit Review, Analysis, and Reporting"
+SC-59,au-6.1,AU-6 (1),Process Integration
+SC-60,au-6.3,AU-6 (3),Correlate Audit Repositories
+SC-61,au-7,AU-7,Audit Reduction and Report Generation
+SC-62,au-7.1,AU-7 (1),Automatic Processing
+SC-63,au-8,AU-8,Time Stamps
+SC-64,au-8.1,AU-8 (1),Synchronization with Authoritative Time Source
+SC-65,au-9,AU-9,Protection of Audit Information
+SC-66,au-9.2,AU-9 (2),Audit Backup on Separate Physical Systems / Components
+SC-67,au-9.4,AU-9 (4),Access by Subset of Privileged Users
+SC-68,au-11,AU-11,Audit Record Retention
+SC-69,au-12,AU-12,Audit Generation
+SC-70,ca-1,CA-1,Security Assessment and Authorization Policies and Procedures
+SC-71,ca-2,CA-2,Security Assessments
+SC-72,ca-2.1,CA-2 (1),Independent Assessors
+SC-73,ca-3,CA-3,System Interconnections
+SC-74,ca-3.3,CA-3 (3),Unclassified Non-National Security System Connections
+SC-75,ca-3.5,CA-3 (5),Restrictions on External System Connections
+SC-76,ca-5,CA-5,Plan of Action and Milestones
+SC-77,ca-6,CA-6,Security Authorization
+SC-78,ca-7,CA-7,Continuous Monitoring
+SC-79,ca-7.1,CA-7 (1),Independent Assessment
+SC-80,ca-8,CA-8,Penetration Testing
+SC-81,ca-8,CA-8(1),Independent Penetration Agent or Team
+SC-82,ca-9,CA-9,Internal System Connections
+SC-83,cm-1,CM-1,Configuration Management Policy and Procedures
+SC-84,cm-2,CM-2,Baseline Configuration
+SC-85,cm-2.1,CM-2 (1),Reviews and Updates
+SC-86,cm-2.2,CM-2 (2),Automation Support for Accuracy/Currency
+SC-87,cm-2.3,CM-2 (3),Retention of Previous Configurations
+SC-88,cm-2.7,CM-2 (7),"Configure Systems, Components, or Devices for High-Risk Areas"
+SC-89,cm-3,CM-3,Configuration Change Control
+SC-90,cm-3.2,CM-3 (2),Test/Validate/Document Changes
+SC-91,cm-4,CM-4,Security Impact Analysis
+SC-92,cm-4.1,CM-4 (1),Separate Test Environments
+SC-93,cm-4.2,CM-4 (2),Verification of Security Functions
+SC-94,cm-5,CM-5,Access Restrictions for Change
+SC-95,cm-5.1,CM-5 (1),Automated Access Enforcement/Auditing
+SC-96,cm-5.3,CM-5 (3),Signed Components
+SC-97,cm-5.5,CM-5 (5),Limit Production/Operational Privileges
+SC-98,cm-6,CM-6,Configuration Settings
+SC-99,cm-6.1,CM-6 (1),Automated Central Management/ Application/Verification
+SC-100,cm-7,CM-7,Least Functionality
+SC-101,cm-7.1,CM-7 (1),Periodic Review
+SC-102,cm-7.2,CM-7 (2),Prevent Program Execution
+SC-103,cm-7.5,CM-7 (5),Authorized Software/Whitelisting
+SC-104,cm-8,CM-8,Information System Component Inventory
+SC-105,cm-8.1,CM-8 (1),Updates During Installations/Removals
+SC-106,cm-8.3,CM-8 (3),Automated Unauthorized Component Detection
+SC-107,cm-8.5,CM-8 (5),No Duplicate Accounting of Components
+SC-108,cm-9,CM-9,Configuration Management Plan
+SC-109,cm-10,CM-10,Software Usage Restrictions
+SC-110,cm-10.1,CM-10 (1),Open Source Software
+SC-111,cm-11,CM-11,User-Installed Software
+SC-112,cp-1,CP-1,Contingency Planning Policy and Procedures
+SC-113,cp-2,CP-2,Contingency Plan
+SC-114,cp-2.1,CP-2 (1),Coordinate with Related Plans
+SC-115,cp-2.2,CP-2 (2),Capacity Planning
+SC-116,cp-2.3,CP-2 (3),Resume Essential Missions/Business Functions
+SC-117,cp-2.8,CP-2 (8),Identify Critical Assets
+SC-118,cp-3,CP-3,Contingency Training
+SC-119,cp-4,CP-4,Contingency Plan Testing
+SC-120,cp-4.1,CP-4 (1),Coordinate with Related Plans
+SC-121,cp-6,CP-6,Alternate Storage Site
+SC-122,cp-6.1,CP-6 (1),Separation from Primary Site
+SC-123,cp-6.3,CP-6 (3),Accessibility
+SC-124,cp-7,CP-7,Alternate Processing Site
+SC-125,cp-7.1,CP-7 (1),Separation from Primary Site
+SC-126,cp-7.2,CP-7 (2),Accessibility
+SC-127,cp-7.3,CP-7 (3),Priority of Service
+SC-128,cp-8,CP-8,Telecommunications Services
+SC-129,cp-8.1,CP-8 (1),Priority of Service Provisions
+SC-130,cp-8.2,CP-8 (2),Single Points of Failure
+SC-131,cp-9,CP-9,Information System Backup
+SC-132,cp-9.1,CP-9 (1),Testing for Reliability / Integrity
+SC-133,cp-9.3,CP-9 (3),Separate Storage for Critical Information
+SC-134,cp-10,CP-10,Information System Recovery and Reconstitution
+SC-135,cp-10.2,CP-10 (2),Transaction Recovery
+SC-136,ia-1,IA-1,Identification and Authentication Policy and Procedures
+SC-137,ia-2,IA-2,Identification and Authentication (Organizational Users)
+SC-138,ia-2.1,IA-2 (1),Network Access to Privileged Accounts
+SC-139,ia-2.2,IA-2 (2),Network Access to Non-Privileged Accounts
+SC-140,ia-2.3,IA-2 (3),Local Access to Privileged Accounts
+SC-141,ia-2.5,IA-2 (5),Group Authentication
+SC-142,ia-2.8,IA-2 (8),Network Access to Privileged Accounts – Replay Resistant
+SC-143,ia-2.11,IA-2 (11),Remote Access – Separate Device
+SC-144,ia-3,IA-3,Device Identification and Authentication
+SC-145,ia-4,IA-4,Identifier Management
+SC-146,ia-4.4,IA-4 (4),Identify User Status
+SC-147,ia-5,IA-5,Authenticator Management
+SC-148,ia-5.1,IA-5 (1),Password-Based Authentication
+SC-149,ia-5.2,IA-5 (2),PKI-Based Authentication
+SC-150,ia-5.3,IA-5 (3),In-Person or Trusted Third-Party Registration
+SC-151,ia-5.4,IA-5 (4),Automated Support For Password Strength Determination
+SC-152,ia-5.6,IA-5 (6),Protection of Authenticators
+SC-153,ia-5.7,IA-5 (7),No Embedded Unencrypted Static Authenticators
+SC-154,ia-5.11,IA-5 (11),Hardware Token-Based Authentication
+SC-155,ia-6,IA-6,Authenticator Feedback
+SC-156,ia-7,IA-7,Cryptographic Module Authentication
+SC-157,ia-8,IA-8,Identification and Authentication (Non-Organizational Users)
+SC-158,ia-8.2,IA-8 (2),Acceptance of Third-Party Credentials
+SC-159,ia-8.3,IA-8 (3),Use of FICAM-Approved Products
+SC-160,ia-8.4,IA-8 (4),Use of FICAM-Issued Profiles
+SC-161,ir-1,IR-1,Incident Response Policy and Procedures
+SC-162,ir-2,IR-2,Incident Response Training
+SC-163,ir-3,IR-3,Incident Response Testing
+SC-164,ir-3.2,IR-3 (2),Coordination with Related Plans
+SC-165,ir-4,IR-4,Incident Handling
+SC-166,ir-4.1,IR-4 (1),Automated Incident Handling Processes
+SC-167,ir-5,IR-5,Incident Monitoring
+SC-168,ir-6,IR-6,Incident Reporting
+SC-169,ir-6.1,IR-6 (1),Automated Reporting
+SC-170,ir-7,IR-7,Incident Response Assistance
+SC-171,ir-7.1,IR-7 (1),Automation Support for Availability of Information/Support
+SC-172,ir-7.2,IR-7 (2),Coordination with External Providers
+SC-173,ir-8,IR-8,Incident Response Plan
+SC-174,ir-9,IR-9,Information Spillage Response
+SC-175,ir-9.1,IR-9 (1),Responsible Personnel
+SC-176,ir-9.2,IR-9 (2),Training
+SC-177,ir-9.3,IR-9 (3),Post-Spill Operations
+SC-178,ir-9.4,IR-9 (4),Exposure to Unauthorized Personnel
+SC-179,ma-1,MA-1,System Maintenance Policy and Procedures
+SC-180,ma-2,MA-2,Controlled Maintenance
+SC-181,ma-3,MA-3,Maintenance Tools
+SC-182,ma-3.1,MA-3 (1),Inspect Tools
+SC-183,ma-3.2,MA-3 (2),Inspect Media
+SC-184,ma-3.3,MA-3 (3),Prevent Unauthorized Removal
+SC-185,ma-4,MA-4,Nonlocal Maintenance
+SC-186,ma-4.1,MA-4 (1),Auditing and Review
+SC-187,ma-4.2,MA-4 (2),Document Nonlocal Maintenance
+SC-188,ma-5,MA-5,Maintenance Personnel
+SC-189,ma-5,MA-5(1),Individuals without Appropriate Access
+SC-190,ma-6,MA-6,Timely Maintenance
+SC-191,mp-1,MP-1,Media Protection Policy and Procedures
+SC-192,mp-2,MP-2,Media Access
+SC-193,mp-3,MP-3,Media Marking
+SC-194,mp-4,MP-4,Media Storage
+SC-195,mp-5,MP-5,Media Transport
+SC-196,mp-5.4,MP-5 (4),Cryptographic Protection
+SC-197,mp-6,MP-6,Media Sanitization
+SC-198,mp-6.1,MP-6 (1),Review/Approve/Track/Document/Verify
+SC-199,mp-6.2,MP-6 (2),Equipment Testing
+SC-200,mp-7,MP-7,Media Use
+SC-201,mp-7.1,MP-7 (1),Prohibit Use Without Owner
+SC-202,mp-cms-1,MP-CMS-1,Media Related Records
+SC-203,pe-1,PE-1,Physical and Environmental Protection Policy and Procedures
+SC-204,pe-2,PE-2,Physical Access Authorizations
+SC-205,pe-2.1,PE-2 (1),Access by Position / Role
+SC-206,pe-3,PE-3,Physical Access Control
+SC-207,pe-4,PE-4,Access Control for Transmission Medium
+SC-208,pe-5,PE-5,Access Control for Output Devices
+SC-209,pe-6,PE-6,Monitoring Physical Access
+SC-210,pe-6.1,PE-6 (1),Intrusion Alarms/Surveillance Equipment
+SC-211,pe-8,PE-8,Visitor Access Records
+SC-212,pe-9,PE-9,Power Equipment and Cabling
+SC-213,pe-10,PE-10,Emergency Shutoff
+SC-214,pe-11,PE-11,Emergency Power
+SC-215,pe-12,PE-12,Emergency Lighting
+SC-216,pe-13,PE-13,Fire Protection
+SC-217,pe-13.3,PE-13 (3),Automatic Fire Suppression
+SC-218,pe-14,PE-14,Temperature and Humidity Controls
+SC-219,pe-15,PE-15,Water Damage Protection
+SC-220,pe-16,PE-16,Delivery and Removal
+SC-221,pe-17,PE-17,Alternate Work Site
+SC-222,pl-1,PL-1,Security Planning Policy and Procedures
+SC-223,pl-2,PL-2,System Security Plan
+SC-224,pl-2.3,PL-2 (3),Plan/Coordinate with Other Organizational Entities
+SC-225,pl-4,PL-4,Rules of Behavior
+SC-226,pl-4.1,PL-4 (1),Social Media and Networking Restrictions
+SC-227,pl-8,PL-8,Information Security Architecture
+SC-228,ps-1,PS-1,Personnel Security Policy and Procedures
+SC-229,ps-2,PS-2,Position Risk Designation
+SC-230,ps-3,PS-3,Personnel Screening
+SC-231,ps-4,PS-4,Personnel Termination
+SC-232,ps-5,PS-5,Personnel Transfer
+SC-233,ps-6,PS-6,Access Agreements
+SC-234,ps-7,PS-7,Third-Party Personnel Security
+SC-235,ps-8,PS-8,Personnel Sanctions
+SC-236,ra-1,RA-1,Risk Assessment Policy and Procedure
+SC-237,ra-2,RA-2,Security Categorization
+SC-238,ra-3,RA-3,Risk Assessment
+SC-239,ra-5,RA-5,Vulnerability Scanning
+SC-240,ra-5.1,RA-5 (1),Update Tool Capability
+SC-241,ra-5.2,RA-5 (2),Update by Frequency/Prior to New Scan/When Identified
+SC-242,ra-5.3,RA-5 (3),Breadth/Depth of Coverage
+SC-243,ra-5.5,RA-5 (5),Privileged Access
+SC-244,ra-5.6,RA-5 (6),Automated Trend Analysis
+SC-245,ra-5.8,RA-5 (8),Review Historic Audit Logs
+SC-246,sa-1,SA-1,System and Services Acquisition Policy and Procedures
+SC-247,sa-2,SA-2,Allocation of Resources
+SC-248,sa-3,SA-3,System Development Life Cycle
+SC-249,sa-4,SA-4,Acquisition Process
+SC-250,sa-4.1,SA-4 (1),Functional Properties of Security Controls
+SC-251,sa-4.2,SA-4 (2),Design/Implementation Information for Security Controls
+SC-252,sa-4.8,SA-4 (8),Continuous Monitoring Plan
+SC-253,sa-4.9,SA-4 (9),Functions/Ports/Protocols/Services in Use
+SC-254,sa-5,SA-5,Information System Documentation
+SC-255,sa-8,SA-8,Security Engineering
+SC-256,sa-9,SA-9,External Information System Services
+SC-257,sa-9.1,SA-9 (1),Risk Assessments/Organizational Approvals
+SC-258,sa-9.2,SA-9 (2),Identification of Functions/Ports/Protocols/Services
+SC-259,sa-9.5,SA-9 (5),"Processing, Storage, and Service Location"
+SC-260,sa-10,SA-10,Developer Configuration Management
+SC-261,sa-10.1,SA-10 (1),Software / Firmware Integrity
+SC-262,sa-11,SA-11,Developer Security Testing and Evaluation
+SC-263,sa-11.1,SA-11 (1),Static Code Analysis
+SC-264,sa-11.2,SA-11 (2),Threat and Vulnerability Analysis
+SC-265,sa-11.8,SA-11 (8),Dynamic Code Analysis
+SC-266,sa-22,SA-22,Unsupported System Components
+SC-267,sc-1,SC-1,System and Communications Protection Policy and Procedures
+SC-268,sc-2,SC-2,Application Partitioning
+SC-269,sc-4,SC-4,Information in Shared Resources
+SC-270,sc-5,SC-5,Denial of Service Protection
+SC-271,sc-6,SC-6,Resource Availability
+SC-272,sc-7,SC-7,Boundary Protection
+SC-273,sc-7.3,SC-7 (3),Access Points
+SC-274,sc-7.4,SC-7 (4),External Telecommunications Services
+SC-275,sc-7.5,SC-7 (5),Deny by Default/Allow by Exception
+SC-276,sc-7.7,SC-7 (7),Prevent Split Tunneling for Remote Devices
+SC-277,sc-7.8,SC-7 (8),Route Traffic to Authenticated Proxy Servers
+SC-278,sc-7.12,SC-7 (12),Host-Based Protection
+SC-279,sc-7.13,SC-7 (13),Isolation of Security
+SC-280,sc-7.18,SC-7 (18),Fail Secure
+SC-281,sc-8,SC-8,Transmission Confidentiality and Integrity
+SC-282,sc-8.1,SC-8 (1),Cryptographic or Alternate Physical Protection
+SC-283,sc-8.2,SC-8 (2),Pre/Post Transmission Handling
+SC-284,sc-10,SC-10,Network Disconnect
+SC-285,sc-12,SC-12,Cryptographic Key Establishment and Management
+SC-286,sc-12.2,SC-12 (2),Symmetric Keys
+SC-287,sc-12.3,SC-12 (3),Asymmetric Keys
+SC-288,sc-13,SC-13,Cryptographic Protection
+SC-289,sc-15,SC-15,Collaborative Computing Device
+SC-290,sc-17,SC-17,Public Key Infrastructure Certificates
+SC-291,sc-18,SC-18,Mobile Code
+SC-292,sc-19,SC-19,Voice Over Internet Protocol
+SC-293,sc-20,SC-20,Secure Name/Address Resolution Service
+SC-294,sc-21,SC-21,Secure Name/Address Resolution Service
+SC-295,sc-22,SC-22,Architecture and Provisioning for Name/Address Resolution Service
+SC-296,sc-23,SC-23,Session Authenticity
+SC-297,sc-28,SC-28,Protection of Information at Rest
+SC-298,sc-28.1,SC-28 (1),Cryptographic Protection
+SC-299,sc-32,SC-32,Information System Partitioning
+SC-300,sc-39,SC-39,Process Isolation
+SC-301,sc-aca-1,SC-ACA-1,Electronic Mail
+SC-302,sc-aca-2,SC-ACA-2,FAX Usage
+SC-303,si-1,SI-1,System and Information Integrity Policy and Procedures
+SC-304,si-2,SI-2,Flaw Remediation
+SC-305,si-2.2,SI-2 (2),Automated Flaw Remediation Status
+SC-306,si-3,SI-3,Malicious Code Protection
+SC-307,si-3.1,SI-3 (1),Central Management
+SC-308,si-3.2,SI-3 (2),Automatic Updates
+SC-309,si-3.7,SI-3 (7),Nonsignature-Based Detection
+SC-310,si-4,SI-4,Information System Monitoring
+SC-311,si-4.1,SI-4 (1),System-Wide Intrusion Detection System
+SC-312,si-4.2,SI-4 (2),Automated Tools for Real-Time Analysis
+SC-313,si-4.4,SI-4 (4),Inbound and Outbound Communications Traffic
+SC-314,si-4.5,SI-4 (5),System-Generated Alerts
+SC-315,si-4.14,SI-4 (14),Wireless Intrusion Detection
+SC-316,si-4.16,SI-4 (16),Correlate Monitoring Information
+SC-317,si-4.23,SI-4 (23),Host-Based Devices
+SC-318,si-5,SI-5,"Security Alerts, Advisories, and Directives"
+SC-319,si-6,SI-6,Security Function Verification
+SC-320,si-7,SI-7,"Software, Firmware, and Information Integrity"
+SC-321,si-7.1,SI-7 (1),Integrity Checks
+SC-322,si-7.7,SI-7 (7),Integration of Detection and Response
+SC-323,si-8,SI-8,Spam Protection
+SC-324,si-8.1,SI-8 (1),Central Management
+SC-325,si-8.2,SI-8 (2),Automatic Updates
+SC-326,si-10,SI-10,Information Input Validation
+SC-327,si-11,SI-11,Error Handling
+SC-328,si-12,SI-12,Information Handling and Retention
+SC-329,si-16,SI-16,Memory Protection
+SC-330,pm-1,PM-1,Information Security Program Plan
+SC-331,pm-2,PM-2,Senior Information Security Officer
+SC-332,pm-3,PM-3,Information Security Resources
+SC-333,pm-4,PM-4,Plan of Action and Milestones Process
+SC-334,pm-5,PM-5,Information System Inventory
+SC-335,pm-6,PM-6,Information Security Measures of Performance
+SC-336,pm-7,PM-7,Enterprise Architecture
+SC-337,pm-8,PM-8,Critical Infrastructure Plan
+SC-338,pm-9,PM-9,Risk Management Strategy
+SC-339,pm-10,PM-10,Security Authorization Process
+SC-340,pm-11,PM-11,Mission/Business Process Definition
+SC-341,pm-12,PM-12,Insider Threat Program
+SC-342,pm-13,PM-13,Information Security Workforce
+SC-343,pm-14,PM-14,"Testing, Training, and Monitoring"
+SC-344,pm-15,PM-15,Contacts with Security Groups and Associations
+SC-345,pm-16,PM-16,Threat Awareness Program
+PC-346,ap-1,AP-1,Authority to Collect
+PC-347,ap-2,AP-2,Purpose Specification
+PC-348,ar-1,AR-1,Governance and Privacy Program
+PC-349,ar-2,AR-2,Privacy Impact and Risk Assessment
+PC-350,ar-3,AR-3,Privacy Requirements for Contractors and Service Providers
+PC-351,ar-4,AR-4,Privacy Monitoring and Auditing
+PC-352,ar-5,AR-5,Privacy Awareness and Training
+PC-353,ar-7,AR-7,Privacy-Enhanced System Design and Development
+PC-354,ar-8,AR-8,Accounting of Disclosures
+PC-355,di-1,DI-1,Data Quality
+PC-356,di-1.1,DI-1 (1),Validate PII
+PC-357,di-1.2,DI-1 (2),Re-validate PII
+PC-358,dm-1,DM-1,Minimization of Personally Identifiable Information
+PC-359,dm-1.1,DM-1 (1),Minimization of PII/Locate/Remove/Redact/Anonymize PII
+PC-360,dm-2,DM-2,Data Retention and Disposal
+PC-361,dm-2.1,DM-2 (1),Data Retention and Disposal/System Configuration
+PC-362,dm-3,DM-3,"Minimization of PII Used in Testing, Training, and Research"
+PC-363,dm-3.1,DM-3 (1),"Minimization of PII Used in Testing, Training, and Research /"
+PC-364,ip-1,IP-1,Consent
+PC-365,ip-1.1,IP-1 (1),Mechanism Supporting Itemized or Tiered Consent
+PC-366,ip-2,IP-2,Individual Access
+PC-367,ip-3,IP-3,Redress
+PC-368,ip-4,IP-4,Complaint Management
+PC-369,ip-4.1,IP-4 (1),Complaint Management/Response Times
+PC-370,se-1,SE-1,Inventory of Personally Identifiable Information
+PC-371,se-2,SE-2,Privacy Incident Response
+PC-372,tr-1,TR-1,Privacy Notice
+PC-373,tr-1.1,TR-1 (1),Real-Time or Layered Notice
+PC-374,tr-2,TR-2,System of Records Notices and Privacy Act Statements
+PC-375,tr-3,TR-3,Dissemination of Privacy Program Information
+PC-376,ul-1,UL-1,Internal Use
+PC-377,ul-2,UL-2,Information Sharing with Third Parties
